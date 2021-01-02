@@ -7,7 +7,7 @@
 - 💬 Ask me about JavaScript & anything related to Vue.
 - 📫 How to reach me: [Email me!](mailto:keithmchd48@gmail.com)
 - 📱 Find me on: [Twitter](https://twitter.com/keith_kinsella7) · [Linkedin](https://www.linkedin.com/in/keith-machado-591a6181/)
-- 🥅 Goal for 2021: Contribute more often to Open Source, Participate in online events & code challenges
+- 🥅 Goals for 2021: Contribute more often to Open Source, Participate frequently in online events & code challenges.
 
 ---
 <summary>:zap: GitHub Stats</summary>

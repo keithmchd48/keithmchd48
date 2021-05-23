@@ -12,5 +12,6 @@
 ---
 <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Keith's GitHub Stats" src="https://github-readme-stats-plum-kappa.vercel.app/api?username=keithmchd48&show_icons=true&hide_border=true" />
+  ![Keith's GitHub stats](https://github-readme-stats.vercel.app/api?username=keithmchd48&show_icons=true&theme=synthwave)
+
 

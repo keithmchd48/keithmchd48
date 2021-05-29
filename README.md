@@ -1,6 +1,6 @@
 ### Hello World! 👋
 ---
-- 🔭 I’m currently working as a Frontend Developer.
+- 🔭 I’m currently working as a Frontend Developer. Find my [Resume/CV here](https://keith-machado-dev.netlify.app/).
 - 🌍 Based in Mumbai, India.
 - 🛠 Mostly code in JavaScript and Vue.js.
 - 👯 I’m looking to collaborate on any JavaScript and/or Vue.js open source projects.

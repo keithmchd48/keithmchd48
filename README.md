@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on any JavaScript and/or Vue.js open source projects.
 - 💬 Ask me about JavaScript, CSS & anything related to Vue.js.
 - 📫 How to reach me: [Email me!](mailto:keithmchd48@gmail.com)
-- 📱 Find me on: [Twitter](https://twitter.com/keith_kinsella7) · [LinkedIn](https://www.linkedin.com/in/keith-machado-591a6181/) · [stackoverflow](https://stackoverflow.com/users/10595316/keith-m)
+- 📱 Find me on: [Twitter](https://twitter.com/keith_kinsella7) · [LinkedIn](https://www.linkedin.com/in/keith-machado-591a6181/) · [StackOverflow](https://stackoverflow.com/users/10595316/keith-m)
 - 🥅 Goals for 2022: Educate myself on browser APIs.
 
 ---

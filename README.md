@@ -12,7 +12,7 @@
 ---
 <summary>:zap: GitHub Stats</summary>
 
-  ![Keith's GitHub stats](https://github-readme-stats.vercel.app/api?username=keithmchd48&show_icons=true&theme=ambient_gradient)
+  ![Keith's GitHub stats](https://github-readme-stats.vercel.app/api?username=keithmchd48&show_icons=true&theme=ambient_gradient&custom_title=Stats)
 
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keithmchd48&hide_progress=false&layout=compact)

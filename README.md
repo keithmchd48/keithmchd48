@@ -1,11 +1,11 @@
 ### Hello World! 👋
 ---
-- 🔭 I’m currently working as a Frontend Developer. Find my [Resume/CV here](https://keith-machado-dev.netlify.app/).
+- 🔭 I’m currently working as a Frontend Developer. Find my [Resume/CV here](https://flowcv.com/resume/bcoi4128p52a).
 - 🌍 Based in Copenhagen, Denmark.
-- 🛠 Primarily code in JavaScript, Vue.js.
-- 📖 Learning Nuxt & React.
+- 🛠 Primarily code in JavaScript, Vue.
+- 📖 Familiar with Typescript, React.
 - 👯 I’m looking to collaborate on any JavaScript and/or Vue.js open source projects.
-- 💬 Ask me about JavaScript, CSS & anything related to Vue.js.
+- 💬 Ask me about JavaScript, CSS & anything related to Vue.
 - 📫 How to reach me: [Email me!](mailto:keithmchd48@gmail.com)
 - 🖼️ Find me here: [My Bio](https://bio.to/keith-dev) · [LinkedIn](https://www.linkedin.com/in/keith-machado-591a6181/) · [StackOverflow](https://stackoverflow.com/users/10595316/keith-m)
 
